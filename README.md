@@ -1,2 +1,0 @@
-# RenameWHT
-Withholding Tax Downloader
